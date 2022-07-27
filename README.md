@@ -15,8 +15,8 @@
 
 I am medical physics engineering student at Favaloro University in Argentina.
 
-- 🔭 I’m working as a academic assistance at my University and freelancer.
-- ⚡ Love to work in personal projects, in special with my OAK-D and everything oriented to Computer Vision.
+- 🔭 I’m working as an academic assistance at my University and as freelancer.
+- ⚡ Love to work in personal projects, in special with OAK-D and everything oriented to Computer Vision.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-eastanganelli-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-augusto-stanganelli-962a0299)
 
 ---
@@ -45,9 +45,9 @@ I am medical physics engineering student at Favaloro University in Argentina.
 ---
 
 ### 🔥 &nbsp; My Stats :
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eastanganelli0&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eastanganelli&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FFF000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estanganelli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastanganelli&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
