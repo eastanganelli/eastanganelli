@@ -45,7 +45,7 @@ I am medical physics engineering student at Favaloro University in Argentina.
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eastanganelli&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FFF000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eastanganelli&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastanganelli&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
