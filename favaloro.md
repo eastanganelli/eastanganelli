@@ -17,7 +17,11 @@ Actualmente, desempeño como ayudante en materias de programación como Introduc
     - [2022 2C](https://github.com/eastanganelli/UF_FICEN_AYUDANTIA_IRI_2022_2C)
     - [2021 2C](https://github.com/eastanganelli/UF_FICEN_AYUDANTIA_IRI_2021_2C)
 - Laboratorio de Programación I [LPI]:
+    - [2023 1C](https://github.com/eastanganelli/UF_FICEN_AYUDANTIA_LP1_2022_1C)
     - [2022 1C](https://github.com/eastanganelli/UF_FICEN_AYUDANTIA_LP1_2022_1C)
 
 - Laboratorio de Programación 2 [LPII]:
     - [2022 2C](https://github.com/eastanganelli/UF_FICEN_AYUDANTIA_LP2_2022_2C)
+
+- Base de Datos [BD]:
+    - [2023 1C](#)
