@@ -14,7 +14,7 @@ Actualmente, desempeño como ayudante en materias de programación como Introduc
 ## Ayudantias
 
 - Introducción a las redes e informática [IRI]:
-    - [2022 2C](https://github.com/eastanganelli/UF_FICEN_AYUDANTIA_IRI_2022_2C)
+    - [2022 2C](https://github.com/UF-IRI)
     - [2021 2C](https://github.com/eastanganelli/UF_FICEN_AYUDANTIA_IRI_2021_2C)
 - Laboratorio de Programación I [LPI]:
     - [2023 1C](https://github.com/UF-LP1)
