@@ -15,9 +15,10 @@
 
 I am medical physics engineering student at Favaloro University in Argentina.
 
-- 🔭 I’m working as an [academic assistance](./favaloro.md#ayudantias) at my University and as freelancer.
+- 🔭 I’m working as freelancer software developer.
 - ⚡ Love to work in personal projects, in special with OAK-D and everything oriented to Computer Vision.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-eastanganelli-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-augusto-stanganelli-962a0299)
+- I used to work as an [academic assistance](./favaloro.md#ayudantias) at Favaloro University in the faculty of engineering in the department of informatics.
 
 ---
 
