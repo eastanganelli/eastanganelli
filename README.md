@@ -13,7 +13,7 @@
 
 ### About Me :
 
-I am medical physics engineering student at Favaloro University in Argentina.
+I am software developer that drop medical physics engineering degree to achieve my gratest dreams.
 
 - 🔭 I’m working as freelancer software developer.
 - ⚡ Love to work in personal projects, in special with OAK-D and everything oriented to Computer Vision.
